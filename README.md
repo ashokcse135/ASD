@@ -1,2 +1,2 @@
 # ASD
-It consists of the work related to the study of ASD with Deep Learning.
+It consists of the work related to the study of ASD.
